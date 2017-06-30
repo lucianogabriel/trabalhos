@@ -1,0 +1,10 @@
+com\thoque\alugafesta\daos\PaginatorQueryHelper.class
+com\thoque\alugafesta\controllers\CategoryController.class
+com\thoque\alugafesta\daos\ProductDao.class
+com\thoque\alugafesta\models\Product.class
+com\thoque\alugafesta\daos\CategoryDao.class
+com\thoque\alugafesta\models\Category.class
+com\thoque\alugafesta\Boot.class
+com\thoque\alugafesta\controllers\HomeController.class
+com\thoque\alugafesta\models\PaginatedList.class
+com\thoque\alugafesta\controllers\ProductController.class
